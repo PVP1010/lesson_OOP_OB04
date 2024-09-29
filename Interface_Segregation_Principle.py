@@ -17,4 +17,3 @@ class SmartHouse():                    # Создадим класс "Умный
 
     def turn_on_music(self):            # Создадим функцию для включения музыки
         pass
-    
